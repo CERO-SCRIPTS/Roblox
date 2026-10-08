@@ -332,7 +332,7 @@ end)
 
 StarterGui:SetCore("SendNotification", {
     Title = "CRYSTEEL EXPANDER",
-    Text = "R-CTRL to toggle UI",
+    Text = "R-CTRL For UI",
     Duration = 5,
 })
 
