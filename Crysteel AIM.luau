@@ -401,7 +401,7 @@ end)
 
 StarterGui:SetCore("SendNotification", {
     Title = "CRYSTEEL AIM",
-    Text = "R-CTRL to toggle UI",
+    Text = "R-CTRL For UI",
     Duration = 5,
 })
 
