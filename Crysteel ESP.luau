@@ -491,7 +491,7 @@ Players.PlayerRemoving:Connect(function(p)
 end)
 
 StarterGui:SetCore("SendNotification", {
-    Title = "CRYSTEEL Initiated",
+    Title = "CRYSTEEL ESP",
     Text = "R-CTRL For UI",
     Duration = 5
 })
